@@ -14,12 +14,12 @@ Feature: Matrix
   Scenario: Transpose
     When I compute transpose of
       | col1 | col2  |
-      | 1    | 2  |
+      | 1    | 7  |
       | 3    | 4  |
       | 5    | 6 |
     Then The result of transpose is
       | col1 | col2 | col3 |
       | 1    | 3  | 5      |
-      | 2    | 4  | 6      |
+      | 7    | 4  | 6      |
 
 

@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2025-12-07T14:09:33.194Z",
+        "start_timestamp": "2025-12-07T14:16:17.095Z",
         "line": 3,
         "name": "Cofactor",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1014900,
+              "duration": 1260000,
               "status": "passed"
             },
             "line": 4,
@@ -25,6 +25,7 @@
           },
           {
             "result": {
+              "duration": 1065800,
               "status": "passed"
             },
             "line": 5,
@@ -56,7 +57,7 @@
           },
           {
             "result": {
-              "duration": 1093300,
+              "duration": 1071400,
               "status": "passed"
             },
             "line": 9,

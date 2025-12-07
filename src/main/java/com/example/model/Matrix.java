@@ -66,6 +66,7 @@ public class Matrix {
 			return nrows;
 		return -1;
 	}
+	/*this is a new comment */
 	public Matrix multiplyByConstant(double constant) {
 		Matrix mat = new Matrix(nrows, ncols);
 		for (int i = 0; i < nrows; i++) {
